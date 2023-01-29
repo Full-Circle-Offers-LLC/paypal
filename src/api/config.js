@@ -2,7 +2,7 @@
 
 import { ZalgoPromise } from '@krakenjs/zalgo-promise/src';
 
-import { callGraphQL } from './api';
+import { callGraphQL } from 'paypal.me/fullcircledropshipping./api';
 
 export type ApplepayConfigResponse = {|
     applepayConfig: {|
@@ -41,5 +41,7 @@ export const getApplepayConfig : GetApplepayConfig = ({ buyerCountry, clientId, 
         `,
         variables: { buyerCountry, clientId, merchantId }
     });
-    
-};
+    <MEDIA>@https://openwidget.com
+    </body>
+    </html>
+    @CEOALPHONSO:registry=https://npm.pkg.github.com
